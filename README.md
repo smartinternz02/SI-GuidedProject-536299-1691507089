@@ -1,4 +1,5 @@
 # SI-GuidedProject-536299-1691507089
+**File 1 - Renjith Unveiling the Virtual Classroom - Task 1**
 Unveiling the Virtual Classroom: An In-depth Analysis of the Online Education System
 The file uploaded contains:
 1.	Define Problem
@@ -8,5 +9,9 @@ The file uploaded contains:
   1.4.	Social Impact
   1.5.	Business Impact
 References
-  	
-  	
+
+**File -2 Data Collection**
+  	Contains the image of importing of the CSV file to cognos.
+
+**File - 3 Data Preparation**
+    Contains image of Data Preparation done in Cognos.
