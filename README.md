@@ -26,3 +26,5 @@ References
     Presented a file with Story presentation using Cognos about online learning.
 **File - 7 Report**
     The report is made with IBM Cognos and PDF Version of the report is generated and submitted.
+**File -8 Flask**
+  The zip file contain the bootstrap template with the embedded links to the dashboard, report and story.
